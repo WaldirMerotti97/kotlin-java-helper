@@ -25,8 +25,7 @@ dependencies {
 	testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
-	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
-	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4")
+	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.8.1")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-slf4j:1.6.4") // For logging, optional
 }
 

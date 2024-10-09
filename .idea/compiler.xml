@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="coroutines" target="21" />
+      <module name="coroutines.main" target="21" />
+      <module name="coroutines.test" target="21" />
+      <module name="kotlin-java-helper.springevents" target="21" />
+      <module name="spring-events.main" target="21" />
+      <module name="spring-events.test" target="21" />
+      <module name="springevents" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

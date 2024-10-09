@@ -10,9 +10,7 @@ class CoroutinesApplication(
 	private val launchExceptionHandling: LaunchExceptionHandling
 ): CommandLineRunner{
 	override fun run(vararg args: String?) {
-//		parallelCalls.makeCallsInParallel()
-		parallelCalls.makeCallsInParallel2()
-//		parallelCalls.makeCallsInParallel3()
+		parallelCalls.makeCallsInParallel5()
 	}
 
 }
